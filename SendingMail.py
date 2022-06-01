@@ -1,10 +1,10 @@
 import smtplib
 
-gmail_user = 'guptarohitkumar2580@gmail.com'
-gmail_password = 'ettldvgzpohrdmnw'
+gmail_user = 'Your Email Address'
+gmail_password = 'You email app password'#Refer any youtube video How to generate App password in your google account
 
 sent_from = gmail_user
-to = ['guptarohitkumar2580@gmail.com', 'rohit.vitofficial@gmail.com']
+to = ['Email which needed to be sent']
 subject = 'Generated mail using python'
 body = 'Confirmed that code is working'
 
